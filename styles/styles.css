@@ -1,5 +1,59 @@
 body{
     background-color: #000500;
-    color: #c44900;
     font-family: 'Gloock', serif;
+    font-size: 16px;
+    color: #6e8894;
+    text-align: center;
+
+}
+
+.title{
+    font-size: 2.5rem;
+}
+
+.sheepTitle{
+    color: #efd6ac;
+}
+
+.wolfTitle{
+    color: #c44900;
+}
+
+
+.subtitle{
+    color: #efd6ac;
+}
+
+.semi{
+    color: #c44900;
+}
+
+.button{
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 5px;
+    font-family: 'Gloock', serif;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+#meetSugar{
+    background-color: #efd6ac;
+    color: #c44900;
+}
+
+#meetInk{
+    background-color: #c44900;
+    color: #efd6ac;
+}
+
+.hidden{
+    color: black;
+}
+
+.show{
+    color: #efd6ac;
 }
